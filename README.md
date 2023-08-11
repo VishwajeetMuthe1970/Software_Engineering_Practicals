@@ -4,4 +4,7 @@
    AIM: To build the 5 modules using Balasmiq software. Modules regarding the UI.\
 
 2. **EXERIMENT 2**
-   AIM Using UML, study object oriented design and create usecase, ER and Activity Sequence and class diagram in **MS VISIO TOOLS.**
+   AIM: Using UML, study object oriented design and create usecase, ER and Activity Sequence and class diagram in **MS VISIO TOOLS.**
+
+3. **EXPERIMENT 3**
+   AIM: Study system modeling using Data Flow Diagram.
