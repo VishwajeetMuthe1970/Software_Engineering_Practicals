@@ -8,3 +8,6 @@
 
 3. **EXPERIMENT 3**
    AIM: Study system modeling using Data Flow Diagram.
+
+4. **EXPERIMENT 4**
+   AIM: Demonstrate the project workflow with the help of GITlAB.
