@@ -11,3 +11,6 @@
 
 4. **EXPERIMENT 4**
    AIM: Demonstrate the project workflow with the help of GITlAB.
+
+5. **EXPERIMENT 6**
+   AIM: DSemonstrate the end to end project flow and dashboard with help of JIRA Tools.
